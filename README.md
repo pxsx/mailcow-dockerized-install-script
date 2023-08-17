@@ -15,18 +15,24 @@ cd mailcow-dockerized-install-script
 ```
 
 2. Execute the Script:
+```bash
 chmod +x install.sh
 ./install.sh
+```
 
 After the script finishes execution, Mailcow should be up and running.
 
 Access
 Mailcow UI:
+```bash
 https://YOUR_MAILCOW_HOSTNAME
+```
 
 Default login credentials:
+```bash
 Username: admin
 Password: moohoo
+```
 
 Note: It's recommended to change these default credentials for security.
 
